@@ -11,3 +11,40 @@ body{
 strong{
     color: #22dffd;
 }
+
+header, footer{
+    height: 200px;
+}
+
+main{
+    display: flex;
+    padding: 0px 300px 0px 300px;
+}
+
+p{
+    margin: 20px 0 30px 0;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+img{
+    width: 50%;
+}
+
+button{
+    background-color: #1ff6eb;
+    width: 150px;
+    height: 50px;
+    border-radius: 12px;
+    border-color: #1ff6eb;
+    font-size: 20px;
+    margin: 25px 55px 0 0;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
